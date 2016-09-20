@@ -1,0 +1,12 @@
+{
+  "short_name": "Angular2Seed",
+  "name": "Angular2Seed",
+  "icons": [{
+      "src": "angular2.png",
+      "sizes": "451x451",
+      "type": "image/png"
+  }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "any"
+}
